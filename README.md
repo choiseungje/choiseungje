@@ -13,7 +13,6 @@ I'm a passionate developer specializing in **Python**, **Java**, and **Kotlin**.
 ---
 ### 🏆 Solved.ac Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwp8752)](https://solved.ac/tmdwp8752)
-![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=tmdwp8752&theme=dark)
 ---
 ### 📫 Contact Me
 
