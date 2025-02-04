@@ -22,9 +22,7 @@ I'm a passionate developer specializing in **Python**, **Java**, and **Kotlin**.
 
 ### 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [Your Twitter](https://twitter.com/yourprofile)
+- 📧 Email: tmdwp8752@naver.com
 
 ---
 
