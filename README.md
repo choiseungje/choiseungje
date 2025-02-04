@@ -11,7 +11,9 @@ I'm a passionate developer specializing in **Python**, **Java**, and **Kotlin**.
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-
+### 🏆 Solved.ac Tier
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=your-baekjoon-id)](https://solved.ac/tmdwp8752)
+---
 ### 📫 Contact Me
 
 - 📧 Email: tmdwp8752@naver.com
