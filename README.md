@@ -12,14 +12,6 @@ I'm a passionate developer specializing in **Python**, **Java**, and **Kotlin**.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: tmdwp8752@naver.com
